@@ -1,0 +1,7 @@
+1. Install serverless globally. Link to initial guide:
+https://www.serverless.com/framework/docs/getting-started
+2. Run npm i
+3. Configure AWS creds:
+https://www.serverless.com/framework/docs/providers/aws/guide/credentials/
+4. Run this command to deploy your project to AWS: sls deploy
+5. Make requests using Postman or sls cli (url`s to your endpoint will be listed in the console)
